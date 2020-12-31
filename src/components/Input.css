@@ -1,0 +1,13 @@
+.input{
+    height:10vw;
+    width:20vw;
+    display:flex;
+    justify-content:flex-end;
+    overflow: hidden;
+    align-items:centre;
+    font-weight:bold;
+    font-size:2vw;
+    background-color: black;
+    color:rgb(34, 226, 233);
+    border:2px solid white;
+}

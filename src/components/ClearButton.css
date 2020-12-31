@@ -1,0 +1,22 @@
+.clear-btn
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size:1vw;
+    height:4vw;
+     width:8vw;
+     border-radius:38%;
+     border: .5vw solid white ;
+     color:white;
+     background-color:rgb(34, 226, 233);
+     margin:.5vw;  
+}
+.clear-btn:hover{
+    transition:0.3s;
+    color:white;
+    border: .5vw solid white;
+     background-color: #00ff00;
+
+}
